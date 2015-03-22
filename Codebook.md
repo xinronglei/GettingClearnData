@@ -17,7 +17,7 @@ Code book
 •	tBodyAcc: measure signals from accelerometer, body acceleration  
 •	tGravityAcc: measure signals from accelerometer, gravity acceleration  
 •	tBodyGyro: measure signals from gyroscope  
-•	tBodyGyro: measure signals from gyroscope  
+
   
 **UNIT**: all three measures  are captured at 50 HZ rate, filtered at 20Hz ro remove noise, and normalized at range (-1,1)   
 
